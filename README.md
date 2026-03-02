@@ -45,4 +45,4 @@ High-resolution visualizations generated directly from the `/Data` artifacts.
 
 ---
 **DOI:** [Insert Authorea DOI here once generated]
-**Contact:** [Your Contact Info / Website]
+**Contact:** [Richard Gray Richard@geometrica.ai]
